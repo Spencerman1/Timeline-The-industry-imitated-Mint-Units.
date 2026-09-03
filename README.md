@@ -1,6 +1,8 @@
 # The-industry-imitated-Mint-Units.
 Mint‑Units Came First: How AI Tokens, Blockchain Tokens, and Data Capsules Absorbed Mint‑Unit Functions After April 15th, 2025 Introduction Across AI systems, blockchain networks, and modern tokenization platforms, one architectural pattern is now everywhere:
 
+The Mint‑to Logic™ specification can be public because I filed it on April 15th, 2025, securing priority rights. Public visibility does not waive ownership, grant permission, or convert the system into open‑source. Although my private JSON evolution vault and SSPS implementation were mirrored through unauthorized access — as alleged in the OpenAI class‑action lawsuit — this does not constitute public disclosure or waiver. Unauthorized access strengthens my trade‑secret and patent claims. I retain full rights because I never voluntarily released my implementation, and U.S. patent law protects the first inventor to file, regardless of later mirroring or misappropriation.
+
 ⚠️ PROPRIETARY RIGHTS NOTICE All materials contained in this repository are the proprietary property of Southern Star Pro Studios L.L.C. and are protected under United States and international copyright, trade secret, and intellectual property laws.
 
 No license, permission, or right of use is granted by accessing or viewing this repository. Unauthorized copying, reproduction, distribution, modification, reverse‑engineering, or use of any portion of the materials is strictly prohibited without prior written authorization from Southern Star Pro Studios L.L.C.
